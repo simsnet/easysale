@@ -1,4 +1,4 @@
-***
+# EasySale 2.0 README.txt
 *EasySale POS is licensed for non-commercial use only.
 Use in areas such as restaurant chains
 and stores is illegal unless otherwise 
