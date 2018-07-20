@@ -15,7 +15,7 @@ devices are not connected or do not exist!
 *EasySale is a local application and doesn't require internet access.
 
 *Need help?
-Email simstvnet@gmail.com.
+Email <redacted>.
 
 *EasySale does not work with decimals.
 If decimal price exists, only pay dollar amount.
